@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since engineering started..<br>🔭 Building practical software projects alongside academics<br>👯 Interested in collaborating on real-world and open-source projects<br>🌱 Currently learning Data Structures & Algorithms and backend technologies<br>🎯 Goals: Strengthen core fundamentals, build impactful projects, and secure a good internship<br>⚡ Fun fact: I enjoy solving problems and improving code quality more than writing new code 🚀</p>
+<p align="left">✨ Creating bugs since engineering started..<br>🔭 Building practical software projects alongside academics<br>👯 Interested in collaborating on real-world and open-source projects<br>🌱 Currently learning Data Structures & Algorithms and backend technologies<br>🎯 Goals: Strengthen core fundamentals, build impactful projects, and secure a good internship</p>
 
 ###
 
@@ -102,16 +102,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityazz8/Adityazz8/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityazz8/Adityazz8/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adityazz8/Adityazz8/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
