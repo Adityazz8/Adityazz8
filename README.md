@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  />
+<img align="left" height="47" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  />
 
 ###
 
@@ -14,19 +14,23 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me !</h2>
-
-###
-
-<p align="left">About me !<br><br>✨ Creating bugs since engineering started..<br>🔭 Building practical software projects alongside academics<br>👯 Interested in collaborating on real-world and open-source projects<br>🌱 Currently learning Data Structures & Algorithms and backend technologies<br>🎯 Goals: Strengthen core fundamentals, build impactful projects, and secure a good internship<br>⚡ Fun fact: I enjoy solving problems and improving code quality more than writing new code 🚀</p>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="276" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="257" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
+
+<p align="left">✨ Creating bugs since engineering started..<br>🔭 Building practical software projects alongside academics<br>👯 Interested in collaborating on real-world and open-source projects<br>🌱 Currently learning Data Structures & Algorithms and backend technologies<br>🎯 Goals: Strengthen core fundamentals, build impactful projects, and secure a good internship<br>⚡ Fun fact: I enjoy solving problems and improving code quality more than writing new code 🚀</p>
+
+###
+
+<br clear="both">
 
 <h2 align="left">🤝 Connect with Me</h2>
 
