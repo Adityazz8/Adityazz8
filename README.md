@@ -22,13 +22,11 @@
 
 <br clear="both">
 
-<h2 align="left">🤝 Connect with Me</h2>
+<img align="right" height="276" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="276" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<h2 align="left">🤝 Connect with Me</h2>
 
 ###
 
@@ -100,6 +98,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityazz8/Adityazz8/output/pacman-contribution-graph-dark.svg">
