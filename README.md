@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Third-year Engineering Student | Aspiring Software Developer !!</h3>
+<h3 align="left">Pre Final Year Engineering Student | Aspiring Software Developer !!</h3>
 
 ###
 
